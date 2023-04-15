@@ -20,15 +20,16 @@ O Bootstrap é um framework front-end que ajuda a desenvolver páginas web de ma
 Funcionalidades
 Este projeto de currículo possui as seguintes funcionalidades:
 
-Design responsivo para adaptação a diferentes tamanhos de tela.
-Links de contato das redes sociais para que os usuários possam entrar em contato.
-Efeitos de animações de rolegem da biblioteca AOS.
-Botão FAB para whatsapp.
-Experiências profissionais, uma seção onde o candidato pode destacar sua trajetória profissional, apresentando os empregos anteriores e suas principais responsabilidades e realizações.
-Educação, uma seção onde o candidato pode detalhar sua formação acadêmica, apresentando as instituições de ensino que frequentou e os cursos e diplomas que obteve.
-Skills em Tecnologia, uma seção que destaca as habilidades técnicas do candidato, apresentando suas habilidades em linguagens de programação, tecnologias e ferramentas relevantes para a vaga.
-Interesses, uma seção onde o candidato pode compartilhar seus interesses e hobbies fora do trabalho, demonstrando sua personalidade e características pessoais.
-Certificados, uma seção que destaca certificações ou cursos complementares que o candidato tenha realizado, demonstrando seu compromisso com o aprendizado contínuo e o desenvolvimento profissional.
+* Design responsivo para adaptação a diferentes tamanhos de tela.
+* Links de contato das redes sociais para que os usuários possam entrar em contato.
+* Efeitos de animações de rolegem da biblioteca AOS.
+* Botão FAB para whatsapp.
+* Experiências profissionais, uma seção onde o candidato pode destacar sua trajetória profissional, apresentando os empregos anteriores e suas principais responsabilidades e realizações.
+* Educação, uma seção onde o candidato pode detalhar sua formação acadêmica, apresentando as instituições de ensino que frequentou e os cursos e diplomas que obteve.
+* Skills em Tecnologia, uma seção que destaca as habilidades técnicas do candidato, apresentando suas habilidades em linguagens de programação, tecnologias e ferramentas relevantes para a vaga.
+* Interesses, uma seção onde o candidato pode compartilhar seus interesses e hobbies fora do trabalho, demonstrando sua personalidade e características pessoais.
+* Certificados, uma seção que destaca certificações ou cursos complementares que o candidato tenha realizado, demonstrando seu compromisso com o aprendizado contínuo e o desenvolvimento profissional.
+
 Conclusão
 Este projeto é uma ótima maneira de aprender as habilidades necessárias para criar um currículo profissional usando HTML, CSS, JavaScript e Bootstrap. Ele demonstra como essas ferramentas podem ser usadas em conjunto para criar um design responsivo e dinâmico que se adapte a diferentes dispositivos. O resultado final é um currículo atraente e profissional que pode ser facilmente compartilhado com potenciais empregadores.
 
