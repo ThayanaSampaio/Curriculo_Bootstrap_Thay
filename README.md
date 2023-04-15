@@ -31,3 +31,7 @@ Interesses, uma seção onde o candidato pode compartilhar seus interesses e hob
 Certificados, uma seção que destaca certificações ou cursos complementares que o candidato tenha realizado, demonstrando seu compromisso com o aprendizado contínuo e o desenvolvimento profissional.
 Conclusão
 Este projeto é uma ótima maneira de aprender as habilidades necessárias para criar um currículo profissional usando HTML, CSS, JavaScript e Bootstrap. Ele demonstra como essas ferramentas podem ser usadas em conjunto para criar um design responsivo e dinâmico que se adapte a diferentes dispositivos. O resultado final é um currículo atraente e profissional que pode ser facilmente compartilhado com potenciais empregadores.
+
+Modelo final:
+![modelocurriculo](https://user-images.githubusercontent.com/107767842/232174383-e2930fc3-487f-4cb5-8c4d-18623dd28e8b.jpg)
+
